@@ -1,10 +1,10 @@
 algorithm sentence
 var
+i :integer:=0  ; 
+ch : string ; 
 nbrcaract :integer:=0 ;
 nbrvoy :integer:=0  ;
 nbrmots :integer:=0 ;  
-i :integer:=0  ; 
-ch : string ; 
 begin
 write ("donner une phrase ")
 read(ch)
