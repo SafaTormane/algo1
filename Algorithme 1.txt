@@ -18,7 +18,7 @@ if length(ch) == 0 or ch=="." do
     if ch[i] = '' then
      nbrmots := nbrmots +1 
     else
-   if (ch[i] = 'e' ) or (ch[i] = 'i' ) or (ch[i] = 'a' ) or (ch[i] = 'y' ) or (ch[i] = 'u' )  then
+   if (ch[i] = 'e' ) or (ch[i] = 'i' ) or (ch[i] = 'a' ) or (ch[i] = 'y' ) or (ch[i] = 'u' ) or (ch[i] = 'o' ) then
    nbrvoy := nbrvoy+1
    endif
 endif
